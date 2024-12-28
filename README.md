@@ -1,4 +1,4 @@
-## Image-Recognition
+## Fruits and Vegetable Image Classifier
 
 ## Introduction
 This project implements an image recognition system using a Convolutional Neural Network (CNN) to accurately recognize images of fruits and vegetables. By leveraging deep learning techniques, the model is trained to distinguish between different types of produce with high accuracy.
@@ -12,7 +12,6 @@ This project implements an image recognition system using a Convolutional Neural
 - Python
 - TensorFlow/Keras
 - NumPy
-- 
 ## Model Details
 The model is built using a Convolutional Neural Network (CNN) with the following specifications:
 
